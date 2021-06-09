@@ -1,0 +1,1 @@
+The first script will print my current working directory
